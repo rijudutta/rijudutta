@@ -1,8 +1,10 @@
 - 👋 Hi, I’m Riju Dutta
 - 👀 I’m interested in theoretical/computational astrophysics
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me rijudutta2371@gmail.com
+
+Experience with fluid simulation codes:
+- PLUTO
+- GPU version of Athena++
 
 <!---
 rijudutta/rijudutta is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
