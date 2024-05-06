@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Riju Dutta
 - 👀 I’m interested in:\
       theoretical/computational astrophysics\
-      plasma physics\
+      plasma physics
 - 📫 How to reach me: rijudutta2371@gmail.com
 
 Experience with fluid simulation codes:
